@@ -37,7 +37,8 @@ To run the **Instacart Recommendation System** locally, clone this repository an
 git clone https://github.com/yourusername/instacart-recommendation-system.git
 cd instacart-recommendation-system
 pip install -r requirements.txt
-```bash
+
+## Installation
 
 Ensure that you have the following libraries installed:
 
