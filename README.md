@@ -1,13 +1,14 @@
-Instacart Recommendation System
-Overview
+**#Instacart Recommendation System****
+****Overview**
 The Instacart Recommendation System is a personalized product suggestion model developed using the Instacart dataset. The goal of the system is to provide tailored product recommendations to users based on their past interactions, purchase history, and preferences. This model combines collaborative filtering, content-based filtering, and hybrid approaches to enhance the user experience, drive engagement, and increase sales on the platform.
 
-Features:
+****Features****
 Personalized Recommendations: Suggests products based on a user’s past purchases and preferences.
 Collaborative Filtering: Recommends products based on the behaviors and preferences of similar users.
 Content-Based Filtering: Suggests products based on the characteristics and features of the items a user has interacted with.
 Hybrid Approach: Combines both collaborative filtering and content-based filtering to improve recommendation quality and accuracy.
-Table of Contents
+
+****Table of Contents****
 Installation
 Dataset
 System Overview
