@@ -38,6 +38,7 @@ git clone https://github.com/yourusername/instacart-recommendation-system.git
 cd instacart-recommendation-system
 pip install -r requirements.txt
 
+```
 ## Installation
 
 Ensure that you have the following libraries installed:
@@ -48,6 +49,7 @@ scikit-learn
 tensorflow
 lightfm
 Dataset
+
 The recommendation model uses the Instacart dataset, which contains anonymized transaction data from users of the Instacart platform. This dataset includes information such as:
 
 User Data: User IDs, demographics, and order history.
